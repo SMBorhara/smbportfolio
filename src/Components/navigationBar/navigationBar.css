@@ -1,0 +1,20 @@
+.navigation__container {
+    background-color: hsl(210, 11%, 15%);
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: var(--font-color) !important;
+}
+
+.navbar-light .navbar-brand {
+    color: var(--font-color) !important;
+}
+
+.navbar-light .navbar-toggler-icon {
+    filter: invert(1);
+}
+
+.links a:hover {
+    background-color: hsl(0, 0%, 30%);
+}
