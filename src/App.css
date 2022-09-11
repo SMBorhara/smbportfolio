@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+.App {
+  font-family: 'Abel';
+}
+
 :root {
   --nav-color: hsl(210, 11%, 15%)
   --nav-color-hover: hsl(210, 11%, 45%)
@@ -5,4 +11,8 @@
   --light-color: hsl(209, 100%, 92%)
   --font-color:hsl(0, 0%, 100%)
   --font-color-hover:hsl(0, 0%, 90%)
+}
+
+#tsparticles {
+  height: 100vh;
 }
