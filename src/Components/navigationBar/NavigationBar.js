@@ -15,7 +15,12 @@ let createLinks = () => {
 function NavigationBar() {
 	return (
 		<div id="home">
-			<Navbar className="navigation__container" expand="md">
+			<Navbar
+				className="navigation__container"
+				style={{ zIndex: '2', top: '0', width: '100' }}
+				collapseOnSelect
+				expand="md"
+			>
 				<Navbar.Brand style={{ marginLeft: '1rem' }} href="#home">
 					Shivani M Borhara
 				</Navbar.Brand>

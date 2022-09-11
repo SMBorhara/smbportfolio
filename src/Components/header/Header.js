@@ -5,7 +5,7 @@ import './header.css';
 function Header() {
 	return (
 		<div className="main-info">
-			<h1>Who I see:</h1>
+			<h1>Who I am:</h1>
 			<Typed
 				strings={[
 					' ',
@@ -18,8 +18,8 @@ function Header() {
 					'She Who Never Gives Up',
 					' ',
 				]}
-				typeSpeed={40}
-				backSpeed={50}
+				typeSpeed={90}
+				backSpeed={80}
 				loop
 			/>
 		</div>
