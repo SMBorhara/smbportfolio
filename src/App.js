@@ -3,6 +3,7 @@ import NavigationBar from './Components/navigationBar/NavigationBar';
 import Particles from './Components/Particles';
 import Header from './Components/header/Header';
 import AboutMe from './Components/aboutMe/AboutMe';
+import Technologies from './Components/tech/Technologies';
 
 function App() {
 	return (
@@ -11,6 +12,7 @@ function App() {
 			<Header />
 			<Particles />
 			<AboutMe />
+			<Technologies />
 		</div>
 	);
 }

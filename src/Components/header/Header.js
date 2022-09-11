@@ -14,7 +14,6 @@ function Header() {
 					'A Daughter',
 					'A Woman',
 					'A Coder',
-					' Sometimes Confused',
 					'She Who Never Gives Up',
 					' ',
 				]}
