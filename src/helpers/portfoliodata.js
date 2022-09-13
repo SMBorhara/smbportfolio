@@ -10,35 +10,33 @@ import tea1 from '../images/projectIcons/teaCozy1.png';
 const portfolioData = [
 	{
 		image: dasmoto,
-		link: '',
 		title: "Dasmoto's Arts and Crafts",
 		summary: 'A website to display the products of an art supply store.',
 		tech: 'HTML, CSS',
 	},
 	{
 		image: excursion,
-		link: '',
+		link: 'https://excursionprojapp.netlify.app/',
 		title: 'Excursion App',
 		summary: 'A mobile app for those who love to travel.',
 		tech: 'HTML, CSS',
 	},
 	{
 		image: halloween,
-		link: '',
+		link: 'https://halloweenfun.netlify.app/',
 		title: 'Halloween Style Guide',
 		summary: 'Style guide for those in need of a Halloween theme.',
 		tech: 'HTML, CSS',
 	},
 	{
 		image: mamabear1,
-		link: '',
+		link: 'https://mamabearclub.netlify.app/',
 		title: 'Mama Bear Club',
 		summary: 'A website for mothers who are in need of friendship.',
 		tech: 'HTML, CSS',
 	},
 	{
 		image: moving1,
-		link: '',
 		title: 'Move It Move It',
 		summary:
 			'A one stop website for those in need of movers and other resources',
@@ -46,7 +44,7 @@ const portfolioData = [
 	},
 	{
 		image: personal1,
-		link: '',
+		link: 'https://personalportstart.netlify.app/',
 		title: 'Early Personal Portfolio',
 		summary:
 			'A start to creating a personal portfolio and deploying on Github pages.',
@@ -54,14 +52,14 @@ const portfolioData = [
 	},
 	{
 		image: RedditHole1,
-		link: '',
+		link: 'https://reddit-hole.netlify.app',
 		title: 'Reddit Hole',
 		summary: 'A scrolling dashboard that scrapes data using the Reddit API.',
 		tech: 'HTML, CSS, React, Redux, JS',
 	},
 	{
 		image: tea1,
-		link: '',
+		link: 'https://teacozyshop.netlify.app/',
 		title: 'Tea Cozy',
 		summary: 'Website created for tea shop.',
 		tech: 'HTML, CSS',

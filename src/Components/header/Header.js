@@ -10,8 +10,10 @@ function Header() {
 				strings={[
 					' ',
 					'A Mom',
+					'An Engineer',
 					'A Wife',
 					'A Daughter',
+					'A Problem Solver',
 					'A Woman',
 					'A Coder',
 					'She Who Never Gives Up',

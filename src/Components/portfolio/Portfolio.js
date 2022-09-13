@@ -26,6 +26,9 @@ function Portfolio() {
 					<p>{data.summary} </p>
 					<Image src={data.image} style={{ width: '200px' }} />
 				</Modal.Body>
+				<a href={data.link} target="__blank" rel="noreferrer">
+					Visit Site
+				</a>
 				<Modal.Footer>
 					<div>Technologies Used: </div>
 					<p style={{ fontSize: '0.7rem', marginRight: 'auto' }}>
