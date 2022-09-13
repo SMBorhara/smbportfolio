@@ -4,6 +4,8 @@ import Particles from './Components/Particles';
 import Header from './Components/header/Header';
 import AboutMe from './Components/aboutMe/AboutMe';
 import Technologies from './Components/tech/Technologies';
+import Portfolio from './Components/portfolio/Portfolio';
+import ContactMe from './Components/contactMe/ContactMe';
 
 function App() {
 	return (
@@ -13,6 +15,8 @@ function App() {
 			<Particles />
 			<AboutMe />
 			<Technologies />
+			<Portfolio />
+			<ContactMe />
 		</div>
 	);
 }
