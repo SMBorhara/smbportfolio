@@ -6,6 +6,7 @@ import moving1 from '../images/projectIcons/moving1.png';
 import personal1 from '../images/projectIcons/personalearly1.png';
 import RedditHole1 from '../images/projectIcons/RedditHole1.png';
 import tea1 from '../images/projectIcons/teaCozy1.png';
+import robot from '../media/robot.gif';
 
 const portfolioData = [
 	{
@@ -63,6 +64,13 @@ const portfolioData = [
 		title: 'Tea Cozy',
 		summary: 'Website created for tea shop.',
 		tech: 'HTML, CSS',
+	},
+	{
+		image: robot,
+		link: 'https://asktherobot.netlify.app/',
+		title: 'Robot Tells Me A Joke',
+		summary: 'Robot that tells you jokes',
+		tech: 'HTML, CSS, JavaScript',
 	},
 ];
 
