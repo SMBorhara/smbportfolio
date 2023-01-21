@@ -6,7 +6,7 @@ import moving1 from '../images/projectIcons/moving1.png';
 import personal1 from '../images/projectIcons/personalearly1.png';
 import RedditHole1 from '../images/projectIcons/RedditHole1.png';
 import tea1 from '../images/projectIcons/teaCozy1.png';
-import robot from '../media/robot.gif';
+import robot from '../images/projectIcons/robot.png';
 
 const portfolioData = [
 	{
